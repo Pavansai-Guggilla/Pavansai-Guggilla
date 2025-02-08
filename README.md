@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **GUGGILLA PAVANSAI**, a passionate Junior ML Engineer specializing in AI and Data Science. I love building predictive models and optimizing data pipelines. Let's explore the fascinating world of machine learning together!
+I'm **GUGGILLA PAVANSAI**, a passionate **Junior ML Engineer specializing in AI and Data Science**. I love building predictive models and optimizing data pipelines. Let's explore the fascinating world of machine learning together!
 
 ## About Me
 
