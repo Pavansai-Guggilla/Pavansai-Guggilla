@@ -8,7 +8,9 @@ Based in **Taipei, Taiwan**, I am dedicated to leveraging machine learning to so
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,git,github,aws,docker,bootstrap,anaconda,autocad,azure,bash,blender,linux,matlab,mysql,pycharm,pytorch,opencv,r,py,sklearn,sass,selenium&perline=8)](https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,sklearn,pandas,scipy,jupyter,opencv,flask,git,github,aws,azure,docker,kubernetes,linux,bash,mysql,pycharm,anaconda,selenium,ollama,vscode,bootstrap,sass,blender,autocad&theme=light&perline=9)
+
 
 
 ---
