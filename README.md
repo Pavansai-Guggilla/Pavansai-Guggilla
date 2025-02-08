@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Pawan
+# Hi there! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=FIRA&weight=600&size=25&pause=979&color=D405F7&center=true&vCenter=true&multiline=true&width=440&lines=PAVANSAI+GUGGILLA+;Machine+Learning+Engineer+%26+Data+Scientist)](https://git.io/typing-svg)
+
+
 
 ## 🚀 About Me
 
