@@ -1,20 +1,48 @@
-# Hi there! 👋
+## Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=FIRA&weight=600&size=25&pause=979&color=D405F7&center=true&vCenter=true&multiline=true&width=440&lines=PAVANSAI+GUGGILLA+;Machine+Learning+Engineer+%26+Data+Scientist)](https://git.io/typing-svg)
+I'm **GUGGILLA PAVANSAI**, a passionate Junior ML Engineer specializing in AI and Data Science. I love building predictive models and optimizing data pipelines. Let's explore the fascinating world of machine learning together!
 
+## About Me
 
+Based in **Taipei, Taiwan**, I am dedicated to leveraging machine learning to solve real-world problems. I focus on forecasting and real-world applications of machine learning, constantly seeking to enhance my skills and knowledge in this exciting field.
 
-## 🚀 About Me
+## Skills & Technologies
 
-I'm a passionate **Machine Learning Engineer & Data Scientist** driven by a mission to merge AI with real-world challenges. With a strong engineering and research background, I specialize in developing innovative, scalable, and ethical ML solutions—whether forecasting environmental trends or powering cutting-edge NLP applications. I hold a **B.Tech in Automobile Engineering** and an **MS in Environmental Engineering**, where I honed my skills in time-series forecasting, deep learning, and AI research.
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,git,github,aws,docker,bootstrap,anaconda,autocad,azure,bash,blender,linux,matlab,mysql,pycharm,pytorch,opencv,r,py,sklearn,sass,selenium&perline=8)](https://skillicons.dev)
 
-- **Currently Seeking:** ML Engineering / Data Science roles  
-- **Expertise:** Transformer models, hybrid ML architectures, MLOps, and ethical AI  
-- **Research Focus:** Advanced forecasting, model optimization, and robust AI systems  
-- **Thesis:** *Optimizing Noisy Data into Predictive Insights for PM2.5 Forecasting Using MEMD*  
-- **Core Strengths:** Analytical problem-solving, continuous learning, and cross-functional collaboration
 
 ---
+
+## 📂 Projects & Research
+
+[![AQNet](https://github-readme-stats.vercel.app/api/pin/?username=Pavansai-Guggilla&repo=AQNet&theme=dark)](https://github.com/Pavansai-Guggilla/AQNet)
+[![WebIntel-AI](https://github-readme-stats.vercel.app/api/pin/?username=Pavansai-Guggilla&repo=WebIntel-AI&theme=dark)](https://github.com/Pavansai-Guggilla/WebIntel-AI)
+
+
+
+
+### 1️⃣ Hybrid Air Pollution Forecasting Model
+- **Overview:** Developed a hybrid model combining LSTM, GRU, and Transformer architectures for PM2.5 prediction with MEMD-based feature extraction.
+- **Achievements:** Achieved an R² score >95% on a custom dataset spanning 6 years from 37 monitoring stations.
+
+### 2️⃣ Transformer Model Fine-Tuning for NLP
+- **Overview:** Fine-tuned state-of-the-art transformer models (BERT & GPT) for text classification and summarization tasks.
+- **Impact:** Enhanced performance through custom embeddings and rigorous hyperparameter tuning.
+
+### 3️⃣ Advanced Trading Strategy Optimization (FinTech)
+- **Overview:** Engineered trading strategies using HMA, Bollinger Bands, and Moving Averages.
+- **Innovation:** Implemented a trailing stop mechanism achieving a 345% return rate with automated backtesting in Python.
+
+### 4️⃣ NLP-Based Word Embeddings on Wikipedia
+- **Overview:** Trained a custom Word2Vec model on a sampled dataset from Wikipedia for semantic analysis and topic modeling.
+- **Applications:** Explored real-world implementations in search engines, recommendation systems, and AI chatbots.
+
+### 5️⃣ AI Video Generation for YouTube
+- **Overview:** Researching AI-driven techniques for face animation and automated video editing.
+- **Goal:** To create engaging, interactive educational content that demystifies ML concepts.
+
+---
+
 
 ## 🛠 Skills & Tech Stack
 
@@ -48,27 +76,9 @@ I'm a passionate **Machine Learning Engineer & Data Scientist** driven by a miss
 
 ---
 
-## 📂 Projects & Research
+## Publications
 
-### 1️⃣ Hybrid Air Pollution Forecasting Model
-- **Overview:** Developed a hybrid model combining LSTM, GRU, and Transformer architectures for PM2.5 prediction with MEMD-based feature extraction.
-- **Achievements:** Achieved an R² score >95% on a custom dataset spanning 6 years from 37 monitoring stations.
-
-### 2️⃣ Transformer Model Fine-Tuning for NLP
-- **Overview:** Fine-tuned state-of-the-art transformer models (BERT & GPT) for text classification and summarization tasks.
-- **Impact:** Enhanced performance through custom embeddings and rigorous hyperparameter tuning.
-
-### 3️⃣ Advanced Trading Strategy Optimization (FinTech)
-- **Overview:** Engineered trading strategies using HMA, Bollinger Bands, and Moving Averages.
-- **Innovation:** Implemented a trailing stop mechanism achieving a 345% return rate with automated backtesting in Python.
-
-### 4️⃣ NLP-Based Word Embeddings on Wikipedia
-- **Overview:** Trained a custom Word2Vec model on a sampled dataset from Wikipedia for semantic analysis and topic modeling.
-- **Applications:** Explored real-world implementations in search engines, recommendation systems, and AI chatbots.
-
-### 5️⃣ AI Video Generation for YouTube
-- **Overview:** Researching AI-driven techniques for face animation and automated video editing.
-- **Goal:** To create engaging, interactive educational content that demystifies ML concepts.
+- [Advanced statistical analysis of air quality and its health impacts in India: Quantifying significance by detangling weather-driven effects](https://pubmed.ncbi.nlm.nih.gov/39906814/) - Heliyon, 2025 Jan 10.
 
 ---
 
