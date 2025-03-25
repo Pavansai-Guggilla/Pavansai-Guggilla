@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **GUGGILLA PAVANSAI**, a passionate **Junior ML Engineer specializing in AI and Data Science**. I love building predictive models and optimizing data pipelines. Let's explore the fascinating world of machine learning together!
+I'm **GUGGILLA PAVANSAI**, a passionate **Junior ML Engineer specializing in AI and Data Scientist**. I love building predictive models and optimizing data pipelines. Let's explore the fascinating world of machine learning together!
 
 ## About Me
 
@@ -19,7 +19,7 @@ Based in **Taipei, Taiwan**, I am dedicated to leveraging machine learning to so
 
 [![AQNet](https://github-readme-stats.vercel.app/api/pin/?username=Pavansai-Guggilla&repo=AQNet&theme=dark)](https://github.com/Pavansai-Guggilla/AQNet)
 [![WebIntel-AI](https://github-readme-stats.vercel.app/api/pin/?username=Pavansai-Guggilla&repo=WebIntel-AI&theme=dark)](https://github.com/Pavansai-Guggilla/WebIntel-AI)
-
+[![Predictive-Maintenance-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Pavansai-Guggilla&repo=Predictive-Maintenance-Tracker&theme=dark)](https://github.com/Pavansai-Guggilla/Predictive-Maintenance-Tracker.git).
 
 
 
@@ -86,9 +86,9 @@ Based in **Taipei, Taiwan**, I am dedicated to leveraging machine learning to so
 
 ## 📬 Let's Connect!
 - **Portfolio:** [Coming Soon!]
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub:** (https://github.com/Pavansai-Guggilla?tab=repositories)
+- **Email:** (mailto:pavansaijackson1@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/guggilla-pavan-sai-021755358/)
 - **YouTube:** (Upcoming AI-powered ML video tutorials)
 
 I'm always eager to collaborate on projects spanning ML, AI, and data-driven innovation. Thanks for visiting my profile—feel free to explore my projects or drop me a line! 🚀
